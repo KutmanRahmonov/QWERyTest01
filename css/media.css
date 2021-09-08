@@ -1,0 +1,44 @@
+@media (max-width: 1024px) {
+    .rect {
+        width: 1024px;
+    }
+    .gallery2 {
+        margin-left: 73px;
+        width: 370px;
+        height: 420px;
+    }
+    .account {
+        margin: -38px 880px;
+
+    }
+    .href {
+        margin-left: 456px;
+    }
+    .f1 {
+        margin-left: 430px;
+    }
+}
+@media (max-width: 992px) {
+    .gallery2{
+        margin-left: 55px;
+    }
+}
+@media (max-width: 768px) {
+
+}
+@media (max-width: 576px) {
+    .holiday2 {
+        margin-top: 73px;
+    }
+}
+@media (max-width: 414px) {
+
+}
+@media (max-width: 320px) {
+    .d-block {
+        background: #000;
+        width: 700px;
+        height: 74px;
+        min-height: 36vh;
+}
+}
